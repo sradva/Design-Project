@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    background-color: lightgray;
+}
+.Title {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 40px;
+
+}
+.Navigation {
+    border-spacing: 2px;
+    border-color: darkgray;
+    font-size: 20px;
+    border-style: solid;
+    position: fixed;
+    border: 1px;
+    background-color: darkgray;
+    font-family: 'Courier New'; 
+    margin-left:180px;
+
+}
+.text {
+    margin: 15px;
+    box-sizing: border-box;
+    font-family: 'Courier New';
+    font-size: 15px;
+}
+
+.kurtandothers{
+    margin-left: 100px;
+}
+.subtitle {
+    font-family: 'Courier New';
+    font-size:35px;
+    margin-left:100px;
+
+}
+.kurt {
+    margin-left: 750px;
+    position: absolute;
+   
+}

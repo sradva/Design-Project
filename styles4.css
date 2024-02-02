@@ -1,0 +1,187 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    background-color: lightgrey;
+}
+.Title {
+    text-align: center;
+}
+.Navigation {
+    border-spacing: 2px;
+    border-color: darkgray;
+    font-size: 20px;
+    border-style: solid;
+    position: fixed;
+    border: 1px;
+    background-color: darkgray;
+    font-family: 'Courier New'; 
+    margin-left:180px;
+}
+.text {
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1 {
+    font-family: 'Courier New';
+    font-size: 28;
+}
+/* Spotify embed links*/
+.Nevermind{
+    margin-left: 560px;
+   
+}
+.Dirt{
+    margin-left: 560px;
+}
+.Ten{
+    margin-left: 560px;
+}
+.AliceInChainsUnplugged {
+    margin-left: 560px;
+}
+.NirvanaMTVUnplugged { 
+    margin-left: 560px;
+}
+.nvmd {
+    background-color: #0864ac;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.unkwn {
+    background-color: #b83130;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.dirt {
+    background-color: #b46036;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.utero {
+    background-color: #975048;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.ten {
+    background-color: #982444;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.face {
+    background-color: #902424;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.UpAlice {
+    background-color: #601828;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.UpPearl {
+    background-color: #887454;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.UpNirvana {
+    background-color: #881830;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.n{
+    background-color: #0864ac;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.u{
+    background-color: #b83130;
+    font-size: 25px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.d{
+    background-color: #b46036;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.in{
+    background-color: #975048;
+    font-size: 25px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.t{
+    background-color: #982444;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.f {
+    background-color: #902424;
+    font-size: 25px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.UA {
+    background-color: #601828;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.UP {
+    background-color: #887454;
+    font-size: 25px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.UN {
+    background-color: #881830;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+.n2{
+    background-color: #0864ac;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.u2 {
+    background-color: #b83130;
+    font-size: 15px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.d2 {
+    background-color: #b46036;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.in2 {
+    background-color: #975048;
+    font-size: 15px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.t2 {
+    background-color: #982444;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.f2 {
+    background-color: #902424;
+    font-size: 15px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.UA2 {
+    background-color: #601828;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.UP2 {
+    background-color: #887454;
+    font-size: 15px;
+    font-family: 'Courier New';
+    margin-left: 700px;
+}
+.UN2 {
+    background-color: #881830;
+    font-size: 15px;
+    font-family: 'Courier New';
+}

@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    background-color: lightgray;
+}
+.Title {
+    text-align: center;
+}
+.Navigation {
+    border-spacing: 2px;
+    border-color: darkgray;
+    font-size: 20px;
+    border-style: solid;
+    position: fixed;
+    border: 1px;
+    background-color: darkgray;
+    font-family: 'Courier New', Courier, monospace; 
+    margin-left:180px;
+
+}
+.text {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New';
+    
+}
+.subtitle {
+    font-family: 'Courier New';
+    font-size:35px;
+    text-align: center;
+}
+.kurt {
+    margin-left: 1000px;
+    position: absolute;
+   
+}
+.clothes {
+    margin-left: 850px;
+    position: absolute;
+}
